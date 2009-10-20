@@ -1,0 +1,19 @@
+.gitignore
+Changes
+inc/Module/Install.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Clib.pm
+inc/Module/Install/ForC.pm
+inc/Module/Install/ForC/Env.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/ReadmeMarkdownFromPod.pm
+Makefile.PL
+MANIFEST
+nanotap.h
+README.pod
+t/01_c.c
+t/01_c.t
+t/02_cpp.cc
+t/02_cpp.t
+META.yml                                 Module meta-data (added by MakeMaker)
