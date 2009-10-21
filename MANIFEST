@@ -1,5 +1,19 @@
 .gitignore
 Changes
+Doxyfile
+html/doxygen.css
+html/doxygen.png
+html/files.html
+html/globals.html
+html/globals_defs.html
+html/globals_func.html
+html/index.html
+html/nanotap_8h-source.html
+html/nanotap_8h.html
+html/tab_b.gif
+html/tab_l.gif
+html/tab_r.gif
+html/tabs.css
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Clib.pm
@@ -9,9 +23,9 @@ inc/Module/Install/Makefile.pm
 inc/Module/Install/Metadata.pm
 inc/Module/Install/ReadmeMarkdownFromPod.pm
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
 nanotap.h
-README.pod
+nanotap.pm
 t/01_c.c
 t/01_c.t
 t/02_cpp.cc
