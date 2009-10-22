@@ -30,4 +30,5 @@ t/01_c.c
 t/01_c.t
 t/02_cpp.cc
 t/02_cpp.t
+t/Utils.pm
 META.yml                                 Module meta-data (added by MakeMaker)
