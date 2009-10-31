@@ -14,21 +14,19 @@ html/tab_b.gif
 html/tab_l.gif
 html/tab_r.gif
 html/tabs.css
-inc/Module/Install.pm
-inc/Module/Install/Base.pm
-inc/Module/Install/Clib.pm
-inc/Module/Install/ForC.pm
-inc/Module/Install/ForC/Env.pm
-inc/Module/Install/Makefile.pm
-inc/Module/Install/Metadata.pm
-inc/Module/Install/ReadmeMarkdownFromPod.pm
+lib/Clib/nanotap.pm
+lib/Module/Install/nanotap.pm
 Makefile.PL
 MANIFEST			This list of files
+META.yml
 nanotap.h
-nanotap.pm
+t/003_mi/Makefile.PL
+t/003_mi/test.t
 t/01_c.c
 t/01_c.t
 t/02_cpp.cc
 t/02_cpp.t
+t/04_is_binary.cc
+t/04_is_binary.t
+t/MITest.pm
 t/Utils.pm
-META.yml                                 Module meta-data (added by MakeMaker)

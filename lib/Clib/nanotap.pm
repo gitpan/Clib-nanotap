@@ -1,5 +1,6 @@
 package Clib::nanotap;
-our $VERSION = '0.03';
+our $VERSION = '0.04';
+use 5.006;
 1;
 __END__
 
@@ -27,3 +28,15 @@ see L<nanotap.h> itself :P
 =head1 SEE ALSO
 
 L<Test::More>
+
+=head1 AUTHOR
+
+Tokuhiro Matsuno E<lt>tokuhirom ah! gmail.comE<gt>
+
+=head1 LICENSE
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+=cut
+
